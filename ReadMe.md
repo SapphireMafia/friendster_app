@@ -1,3 +1,3 @@
 This is my first mobile app project 
 
-# Friendster using React Native
+# Friendster using React Native app
